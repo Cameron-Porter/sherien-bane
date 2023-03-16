@@ -4,7 +4,7 @@ This was a spur of the moment small project for a friend. She is a newer Doctor 
 
 After making a couple different things I didn't like, I went back to my portfolio-v4. Trimmed down everything to the contact form and then modified it to fit her needs. I liked how it looked and most importantly, she loved it.
 
-Deployed to [Sherien-Bain](!https://sherien-bane.vercel.app)
+Deployed to [Sherien-Bain](https://sherien-bane.vercel.app)
 
 <hr>
 <br>
