@@ -22,7 +22,7 @@ export default async function createComment(
       from: process.env.SMTP_FROM_EMAIL,
       to: email,
       subject: `Sherien A. Bane's Curriculum Vitae`,
-      html: `<p>Thank you for taking the time to speak with me recently. Please follow the link below to see my current curriculum vitae:</p><br/>https://drive.google.com/drive/folders/1bQTh_WdxTGRN1iN1yuSTVzJjNpevIEL2?usp=share_link`,
+      html: `<p>Thank you for taking the time to speak with me recently. Please follow the link below to see my current curriculum vitae:</p><br/>`,
     });
   } catch (err) {
     return res
