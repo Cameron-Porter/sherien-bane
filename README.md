@@ -1,3 +1,16 @@
+# Networking
+
+This was a spur of the moment small project for a friend. She is a newer Doctor looking to specialize in Anesthesiology and wanted a site that prospective employers could enter their emails and get a copy of her CV.
+
+After making a couple different things I didn't like, I went back to my portfolio-v4. Trimmed down everything to the contact form and then modified it to fit her needs. I liked how it looked and most importantly, she loved it.
+
+Deployed to [Sherien-Bain](!https://sherien-bane.vercel.app)
+
+<hr>
+<br>
+
+## Now back to the standard jargon...
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
